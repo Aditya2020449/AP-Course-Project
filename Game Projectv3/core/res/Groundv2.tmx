@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="384" height="216" tilewidth="5" tileheight="5" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="GroundTilev2.tsx"/>
+ <imagelayer id="3" name="bg">
+  <image source="MatchStarts.png" width="1920" height="1080"/>
+ </imagelayer>
+ <layer id="1" name="block" width="384" height="216">
+  <data encoding="base64" compression="zlib">
+   eJzt1UluwzAQRUHn/pfOIotA8GyL/M1mFfD2YnPQ5QIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0M/PnQDo495b/ywA6vr0bf8mAHIS775/AUBG+q33f6AiZ43O0m+4fwFVOV90lX6v/Quoypmim/Sb7B/ACpwnOkm/wxXqarf1jrTrGaKv9LtbsZXtss6ZzJNu0m/sSlXXfX0p5khH6fd05arpuq4KzJBO0m9np9K6rmsms2MH6beyc7N1XNMj6f1ddW6Qvg87NkKXdbwivX8rzgxuSd+H3ftG+tu//f53pNe52rzgmfRdUJ9GSa9rlTnBO9L3QD07S3od1ecD30jfA+3TK9LfWGkWMFL6Dki7Bknp8y/tHKSkz760e5CQPveSYL70mZf0F8yUPu+S/oNZ0mdd0jGYIX3OJV0Ho6XPuKTbcS57dZQ+35Lux3ns4VH6bEv6PJ5L71HVfUvPQNI5cS29J5X3Lr1mSWPaXXr+1fcvvT5J49tReubV9jT9vZLydZSeqSStWAfpGUrSyq0kPStJ6tYK0jOSpM5VlJ6JJO1UBekZSNLOzZReqyTpdiOk1yRJer9H0t8mSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZKkY7/D11ns
+  </data>
+ </layer>
+</map>
